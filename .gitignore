@@ -1,0 +1,6 @@
+# Unreal files and folders
+*.sln
+/Binaries/*
+/Intermediate/*
+/Saved/*
+/DerivedDataCache/*
